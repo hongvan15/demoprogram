@@ -10,7 +10,7 @@ namespace demoprogram
     {
         static void Main(string[] args)
         {
-            Console.Write("hello");
+           
 
             Console.Write("xin chào");
 
